@@ -1,2 +1,6 @@
 Flask
-mysql-connector
+wtforms
+passlib
+mysql-connector-python
+werkzeug
+cryptography
